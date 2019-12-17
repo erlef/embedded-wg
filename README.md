@@ -11,6 +11,7 @@ building embedded systems and IoT devices using Erlang VMs
 * [Peer Stritzinger](https://twitter.com/peerstr)
 * [Hideki Takase](https://twitter.com/TAKASEhideki)
 * [Yutaka Kikuchi](https://twitter.com/kikuyuta)
+* [João Henrique Ferreira de Freitas](https://github.com/joaohf)
 
 Interested in helpout out the embedded systems working group? Join the Erlang
 Ecosystem and contact one of our volunteers for more information.
