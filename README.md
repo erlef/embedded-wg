@@ -16,3 +16,9 @@ building embedded systems and IoT devices using Erlang VMs
 
 Interested in helping out the embedded systems working group? Join the Erlang
 Ecosystem and contact one of our volunteers for more information.
+
+## Communication
+
+We primarily communicate via the EEF's Slack. We also have a lightly used
+mailing list at [Google groups -
+eef-embedded-systems](https://groups.google.com/forum/#!forum/eef-embedded-systems).
