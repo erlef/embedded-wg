@@ -6,8 +6,6 @@ building embedded systems and IoT devices using Erlang VMs
 ## Our volunteers
 
 * [Adam Lindberg](https://twitter.com/eproxus)
-* [Frank Hunleth](https://twitter.com/fhunleth)
-* [Justin Schneck](https://twitter.com/mobileoverlord)
 * [Peer Stritzinger](https://twitter.com/peerstr)
 * [Hideki Takase](https://twitter.com/TAKASEhideki)
 * [Yutaka Kikuchi](https://twitter.com/kikuyuta)
